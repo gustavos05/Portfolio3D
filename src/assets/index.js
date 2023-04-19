@@ -26,7 +26,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import crm from "./crm.jpg";
+import CRM from "./CRM.jpg";
 import jobit from "./jobit.png";
 import Pokedex from "./Pokedex.jpg";
 import Ecommer from "./Ecommer.jpg";
