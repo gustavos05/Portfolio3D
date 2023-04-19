@@ -19,7 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
-    crm,
+    CRM,
     jobit,
     Pokedex,
     threejs,
@@ -187,7 +187,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: crm,
+    image: CRM,
     source_code_link: "https://github.com/",
   },
   {

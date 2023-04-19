@@ -57,7 +57,7 @@ export {
   shopify,
   starbucks,
   tesla,
-  crm,
+  CRM,
   jobit,
   Pokedex,
   Ecommer
